@@ -1,2 +1,2 @@
 # Logistic_Regression
-This repository contains my assignment on logistic regression from my data science course,
+This repository contains my assignment on logistic regression from my data science course,It explores the implementation of logistic regression for binary classification problems, showcasing my understanding of the algorithm's principles and application. The code and accompanying documentation provide insights into the data preprocessing, model training, and evaluation processes involved in logistic regression.
